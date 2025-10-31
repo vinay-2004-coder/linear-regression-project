@@ -47,6 +47,12 @@ Steps followed:
 
 ---
 
+## 📁 Files in this Repository
+- Linear_Regression_Project.ipynb — Jupyter notebook
+- README.md — Project overview
+
+---
+
 ### 👨‍💻 Author
 **Vinay N.**  
 Beginner in Machine Learning | Python Enthusiast
